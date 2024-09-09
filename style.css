@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.dropdown-menu{
+    background-color: #5128c6;
+    padding: 8px 16px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.down-arrow{
+   color: #fff;
+}
